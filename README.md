@@ -1,6 +1,6 @@
 # Tugas Kelompok 8 Neural Network
 
-Repository ini berisi dokumentasi dan kode sumber hasil tugas Kelompok 7 untuk mata kuliah **Praktik Machine Learning**. Proyek ini berfokus pada implementasi algoritma Deep Learning untuk mengenali wajah secara real-time dengan membandingkan efektivitas Neural Network sederhana dan *Convolutional Neural Network* (CNN).
+Repository ini berisi dokumentasi dan kode sumber hasil tugas Kelompok 8 untuk mata kuliah **Praktik Machine Learning**. Proyek ini berfokus pada implementasi algoritma Deep Learning untuk mengenali wajah secara real-time dengan membandingkan efektivitas Neural Network sederhana dan *Convolutional Neural Network* (CNN).
 
 ## Anggota Kelompok 
 * **Sherly Novia Indriani** - (231001057)
